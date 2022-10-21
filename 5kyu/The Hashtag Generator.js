@@ -15,3 +15,8 @@ function generateHashtag(str) {
         .join("")
     );
 }
+
+a = [1, 2];
+a.pop();
+a.pop();
+console.log(a);
